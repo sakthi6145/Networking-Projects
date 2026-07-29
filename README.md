@@ -1,12 +1,12 @@
-1. Configured Border Gateway Protocol BGP to establish routing between multiple Autonomous Systems(AS).
+1. Small Office Network Design and VLAN Implementation for our Client - SpiterTech Solutions.
 
-2. Small Office Network Design and VLAN Implementation for our Client - SpiterTech Solutions.
+2. College campus network design and configuration - Client Dindori College of Nursing.
 
-3. College campus network design and configuration - Client Dindori College of Nursing.
+3. automatically assign IP address using router dhcp server.
 
-4. automatically assign IP address using router dhcp server.
+4. extended acl is used to control network traffic based on source IP address, destination IP address, protocol type, and port numbers.
 
-5. extended acl is used to control network traffic based on source IP address, destination IP address, protocol type, and port numbers.
+5. Configured Border Gateway Protocol BGP to establish routing between multiple Autonomous System(AS).
 
 6. Configured Multi-Area OSPF network, Configured multiple routers with Area 0 (Backbone Area) Implemented OSPF neighbor relationships, advertised networks      between areas, and configured Area Border Routers for inter-area communication.
 
