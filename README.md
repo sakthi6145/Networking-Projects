@@ -17,5 +17,12 @@
 9. Standard acl is used to filter network traffic based only on the source IP address, commonly used to permit or deny traffic from specific hosts or networks.
 
 10. Designed and configured a network where two separate LANs communicate through a single router.
+    
 
 11. Designed and configured Virtual Local Area Network switches to logically divide a physical network into separate broadcast domains.
+
+12. Cloud-Based E-Commerce Platform for hospital services for our Client - Aster Multi Speciality Hospital.
+
+13. Serverless Application Greenfield International School
+
+14. Content Management System (CMS)-Tech Innovations
