@@ -2,9 +2,9 @@
 
 2. College campus network design and configuration - Client Dindori College of Nursing.
 
-3. automatically assign IP address using router dhcp server.
+3. Automatically assign IP address using router dhcp server.
 
-4. extended acl is used to control network traffic based on source IP address, destination IP address, protocol type, and port numbers.
+4.  Extended ACL is used to control network traffic based on source IP address, destination IP address, protocol type, and port numbers.
 
 5. Configured Border Gateway Protocol BGP to establish routing between multiple Autonomous System(AS).
 
